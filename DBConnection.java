@@ -7,7 +7,7 @@ public class DBConnection {
             "jdbc:mysql://localhost:3306/nutrition_tracker";
 
     private static final String USER = "root";
-    private static final String PASSWORD = "Malu*2005";
+    private static final String PASSWORD = "your_password";
 
     public static Connection getConnection() {
 
