@@ -1,4 +1,9 @@
 # Nutrition Tracker
+Group members:
+Dalwin Dsouza 2505001
+Savio Thomas 2505004
+Samuel Mendes 2505010
+S Malini 2505029
 
 ## About the Project
 
